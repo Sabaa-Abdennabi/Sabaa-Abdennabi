@@ -63,11 +63,6 @@ certifications & Awards :
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabaa-Abdennabi&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Sabaa-Abdennabi's Top Languages" width="45%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabaa-Abdennabi&theme=default&hide_border=true" alt="Sabaa-Abdennabi's Streak" />
-</p>
-
-
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
