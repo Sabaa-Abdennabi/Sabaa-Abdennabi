@@ -27,15 +27,16 @@ education:
   ]
 fields_of_interests:
   [
-    "Web Development",
     "Data Science",
     "Machine Learning",
     "AI",
     "Big Data",
     "DevOps",
+    "Web Development",
   ]
 technical_background:
   [
+    "Part-Time - AI developer",
     "Intern - Data Science & Machine Learning in Python",
     "Part-Time - Chatbot and Mobile app developer",
     "Intern - Chatbot developer",
@@ -43,12 +44,14 @@ technical_background:
 
 hobbies: [ "Bodybuilding", "Cinema", "Comedy"]
 
-certifications :
+certifications & Awards :
   [
+    "First place in Dataquest ML/AI Hackathon  ",
+    "Outstanding Design and Innovation Price - Seneca Hacks AI & DATA Hackathon ",
+    " 3rd Place –  CTF G2 FOSS " ,
     "Efficient Large Language Model (LLM) Customization  , NVIDIA ",
     "Fundamentals of Accelerated Computing with CUDA/C++ , NVIDIA ",
     "TOEIC Certification: Reading and Listening 940/990 ",
-    "First place in Dataquest ML/AI Hackathon  "
   ]
 ```
   
